@@ -72,7 +72,9 @@
     position: relative;
     width: 100%;
   }
-
+  .callto-action-section .sec-title {
+    margin-top: -170px;
+  }
   .callto-action-section .inner-content .image-column{
     float: none;
     width: 100%;
@@ -1325,6 +1327,10 @@
 
   .about-section{
     padding-top: 70px;
+    height: 1300px;
+  }
+  .about-section .image-box img{
+    display: none;
   }
 
   .about-section .content-box .inner-box .single-item{
